@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "TEST101-6X7O.aternos.me",
+    "ip": "TEST101-6X7O.aternos.me:50960",
     "port": 50960,
     "version": "26.2",
     "try-creative": false
